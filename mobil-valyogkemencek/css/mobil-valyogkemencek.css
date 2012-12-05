@@ -1,0 +1,60 @@
+html {
+}
+
+body {
+	font-size: 80%;
+	font-family: verdana, arial, helvetica, sans-serif;
+	color: #2F3193;
+	padding: 0px;
+	margin: 0px;
+	border: 0px none;
+	background: #FFFFFF url('../../images/css/kezzel-lelekkel_bg.jpg') 50% 0px no-repeat;
+}
+
+table {
+  font-size: 100%;
+}
+
+img, table, tr, td, th, div, span, p, form {
+  border: 0px none;
+  padding: 0px;
+  margin: 0px;
+}
+
+td {
+	vertical-align: top;
+}
+
+a:link, a:visited, a:hover {
+	color: #2F3193;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+}
+
+h1, h2, h3, h4, h5 {
+	padding: 0px;
+	margin: 0px;
+	font-size: 100%;
+}
+
+div.main-container {
+	width: 950px;
+	position: relative;
+	margin: 60px auto 0px auto;
+}
+
+div.main-container h1, 
+div.main-container h2,
+div.main-container h3,
+div.main-container h4,
+div.main-container h5 {
+	display: none;
+}
+
+div.main-container img {
+	position: absolute;
+	display: block;
+	border: 0px none;
+}
